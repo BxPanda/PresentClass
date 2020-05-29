@@ -1,5 +1,6 @@
 # PresentClass
 Present/Gift Class , task from university , using algorithms .
+
 The assignment was performed by the freshman of Ivan Franko University,Lviv.
 
 Завдання : 
