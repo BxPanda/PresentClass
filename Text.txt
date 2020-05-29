@@ -1,4 +1,4 @@
-01 02 2023 Sem Safonov Ukraine Lviv Franka 30 Car WORTHY 50000
-01 02 2021 Sem Safonov Ukraine Shklo Franka 30 Car WORTHY 50000
+01 02 2023 Sem Safonov Ukraine Lviv Franka 30 Mazda Car 50000
+01 02 2021 Sem Safonov Ukraine Shklo Franka 30 BMV Car 50000
 01 02 2023 Sem Safonov Ukraine Kiev Franka 30 Bar WORTHY 50000
 01 02 2022 Sem Safonov Ukraine Kiev Franka 30 Dar WORTHY 50000
